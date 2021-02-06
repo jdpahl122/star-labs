@@ -56,10 +56,14 @@ spec:
     - secretName: star-labs-tls
       hosts:
         - starlabs.apps.jonpahl.com
+        - www.starlabs.apps.jonpahl.com
   rules:
     - host: starlabs.apps.jonpahl.com
-      http:
+      http: &backend
         paths:
           - backend:
               serviceName: frontend
               servicePort: 80
+    - host: www.starlabs.apps.jonpahl.com
+      http: *backend
+
