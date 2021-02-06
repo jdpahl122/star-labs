@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <NavBar/>
-    <HomePage msg="Welcome to Your Vue.js App"/>
+    <HomePage msg="Welcome to Star Labs"/>
   </div>
 </template>
 

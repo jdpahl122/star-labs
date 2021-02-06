@@ -6,15 +6,12 @@
           <b-img blank blank-color="#ccc" width="64" alt="placeholder"></b-img>
         </template>
 
-        <h5 class="mt-0">Media Title</h5>
+        <h5 class="mt-0">Star Labs</h5>
         <p>
-          Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin.
-          Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc
-          ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
+          We've been developing for a long time. Our apps help people get the best deals around.
         </p>
         <p>
-          Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque
-          penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+          Developing helpful APIs, we strive to make it easy for our clients to find the lowest prices.
         </p>
 
         <b-media>
@@ -22,10 +19,9 @@
             <b-img blank blank-color="#ccc" width="64" alt="placeholder"></b-img>
           </template>
 
-          <h5 class="mt-0">Nested Media</h5>
+          <h5 class="mt-0">Buy/Sell</h5>
           <p class="mb-0">
-            Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in
-            faucibus.
+            Our APIs allow our clients to make money by finding the greatest deals and turning that into profit.
           </p>
         </b-media>
       </b-media>
