@@ -23,6 +23,10 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+.hello {
+  min-height: 600px;
+  background: url('../assets/bg.jpg');
+}
 h3 {
   margin: 40px 0 0;
 }
