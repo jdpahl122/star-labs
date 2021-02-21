@@ -2,20 +2,23 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      Let us know how we can help.
+      We invent stuff .... and stuff.
     </p>
+    <RafSpin/>
     <carousel/>
   </div>
 </template>
 
 <script>
 import Carousel from './Carousel.vue'
+import RafSpin from './RafaelSpin'
 export default {
   name: 'HomePage',
   props: {
     msg: String
   },
   components: {
+    RafSpin,
     Carousel
   }
 }
