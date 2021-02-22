@@ -13,6 +13,11 @@ export default {
 </script>
 
 <style scoped>
+
+div {
+  margin: 10px
+}
+
 div.shredder {
   width: inherit;
   height: 100px;
@@ -38,8 +43,8 @@ div.flash {
 }
 
 @keyframes mymove {
-  from {left: 100%;}
-  to {left: 0%;}
+  from {left: 80%;}
+  to {left: 10%;}
 }
 
 </style>
