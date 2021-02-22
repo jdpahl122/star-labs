@@ -3,27 +3,18 @@
     <b-card>
       <b-media>
         <template #aside>
-          <b-img blank blank-color="#ccc" width="64" alt="placeholder"></b-img>
+          <b-img src="https://p1.hiclipart.com/preview/1001/746/560/s-004-random-full-png-clipart.jpg" blank-color="#ccc" width="64" alt="placeholder"></b-img>
         </template>
 
-        <h5 class="mt-0">Star Labs</h5>
+        <h5 class="mt-0">Pizza 2.ohh yeah</h5>
         <p>
-          We've been developing for a long time. Our apps help people get the best deals around.
+          Our most top secret and ambitious project -- Creating the perfect slice of Pizza. Current scores put us at about a 4.6/10 ... this is an increase over last year by .1
+          At current rates of progress, we hope to achieve a 9+ score by the year 2035. Rates will continue to improve, although we are limited by the technology of our time.
         </p>
         <p>
-          Developing helpful APIs, we strive to make it easy for our clients to find the lowest prices.
+          Current progress is slowed also, since I can only eat so much pizza a week.
         </p>
 
-        <b-media>
-          <template #aside>
-            <b-img blank blank-color="#ccc" width="64" alt="placeholder"></b-img>
-          </template>
-
-          <h5 class="mt-0">Buy/Sell</h5>
-          <p class="mb-0">
-            Our APIs allow our clients to make money by finding the greatest deals and turning that into profit.
-          </p>
-        </b-media>
       </b-media>
     </b-card>
   </div>
